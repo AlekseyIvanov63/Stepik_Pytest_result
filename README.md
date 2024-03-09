@@ -1,6 +1,6 @@
 # Stepik_autotests_course_result
 
-Применение паттерна Page Object Model.
+Применение паттерна **Page Object Model**.
 
-PyTest — параметризация, конфигурирование, плагины.
+**PyTest** — параметризация, конфигурирование, плагины.
 
