@@ -8,3 +8,6 @@ class MainPageLocators:
 class LoginPageLocators:
     LOGIN_FORM_LINK = (By.CSS_SELECTOR, '#id_login-username')
     REGISTER_FORM_LINK = (By.CSS_SELECTOR, '#register_form')
+
+
+class ProductPageLocators:
